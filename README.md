@@ -36,7 +36,7 @@ In this doc we will discuss
 
 I wanted our forum to have a unique and personal touch, so I took the initiative to create a logo and some captivating cosplay images using Photoshop.
 
-[freakit.png](src/freakit.png)
+![freakit.png](src/freakit.png)
 
 
 ## Graphical Chart 
