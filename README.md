@@ -64,7 +64,7 @@ once the user sign up a verfication email will send  to its email and once he cl
 ![enter image description here](src/val2.png)
 
 ### 2-Sign in page 
-![enter image description here](signin.png)
+![enter image description here](src/signin.png)
 
 Upon selecting a topic to discuss, users are prompted to sign in to their account to participate in the conversation. The sign-in page features a clean and intuitive interface, allowing users to easily input their credentials and access their account
 
@@ -72,7 +72,7 @@ Upon selecting a topic to discuss, users are prompted to sign in to their accoun
 ### 3-topics discussion (Quotes)
 
 for commenting user can click quote in a topic after log in and he can send he's quote he can also add a link or image to the message of the quote using [link= src] , [image= src]
-![topic discussion](add_topic.png)
+![topic discussion](src/add_topic.png)
 
 ## admin & Interfaces 
 
@@ -81,23 +81,23 @@ For the admin interface, Administrators have special tools to manage the forum. 
 ### 1-Dashboard 
 for the Dashboard admin can see the number of Users , Topics and quotes
 
- ![dashboard ](admin_dash.png)
+ ![dashboard ](src/admin_dash.png)
 
 ### 2-Manage users 
 admin can delete users in this page 
 
-![manage user ](manage_users.png) 
+![manage user ](src/manage_users.png) 
 
 ### 3-Manage admin 
 
 admin can delete admin in this page 
 
-![manage admin](manage_admin.png) 
+![manage admin](src/manage_admin.png) 
 
 ### 4-Manage Topics 
 
 admin can delete or close topic in this page 
-![manage_topics](manage_topics.png)
+![manage_topics](src/manage_topics.png)
 
 ## Hosting
 ### Hosting with Rocky Linux and MySQL
@@ -106,8 +106,8 @@ I've chosen to host our forum platform on Rocky Linux for its stability and secu
 
 i use `VMware workstation` for installin rockylinux 
 
-![hosting](vm3.png)
-![hosting](vm4.png)
-![hosting](vm5.png)
-![hosting](vm6.png)
-![hosting](vm7.png)
+![hosting](src/vm3.png)
+![hosting](src/vm4.png)
+![hosting](src/vm5.png)
+![hosting](src/vm6.png)
+![hosting](src/vm7.png)
